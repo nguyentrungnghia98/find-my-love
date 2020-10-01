@@ -6,6 +6,8 @@
 + Cập nhật thông tin cá nhân, avatar
 + Mời người tư vấn
 
+Video demo: https://www.youtube.com/watch?v=MEx3XKNOzOo
+
 Công nghệ sử dụng:
 + Ionic
 + Nodejs
